@@ -3,7 +3,7 @@
 **Author:** Harsh Parikh  
 **Role:** Cyber Security Intern — Vault-Tec Security  
 **Target:** OWASP Juice Shop (educational target)  
-**Submission Date:** 31 October 2025
+**Submission Date:** 30 October 2025
 
 > **Important legal note:** Testing was performed **only** on OWASP Juice Shop — a purposely vulnerable application provided for training and legal practice. No unauthorized testing was performed on live third-party sites. All steps below are safe, non-malicious, and intended for learning and documentation.
 
