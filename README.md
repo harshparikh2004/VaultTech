@@ -3,7 +3,7 @@
 **Cyber Security Internship — Second Month**
 **Author:** Harsh M Parikh
 **Email:** [ph400764@gmail.com](mailto:ph400764@gmail.com)
-**Date:** 31 October 2025
+**Date:** 30 October 2025
 
 
 
